@@ -1,2 +1,3 @@
-# my-portfolio
-Less
+# George's Portfolio
+
+Serverless uses AWS and ReactJS

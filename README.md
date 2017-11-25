@@ -6,3 +6,6 @@ Less
 
 Git
 SSH
+htmlCSS
+Font awesome
+Google fonts
